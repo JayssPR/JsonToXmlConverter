@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Mazinger Z",
+    "genre": "Super Robot, Sci-Fi, Action",
+    "creator": "Go Nagai",
+    "release_year": 1972,
+    "description": "The foundational anime that established the super robot genre. It introduced the concept of a pilot controlling a giant robot from a cockpit inside its head."
+  },
+  {
+    "title": "Getter Robo",
+    "genre": "Super Robot, Sci-Fi, Action",
+    "creator": "Go Nagai, Ken Ishikawa",
+    "release_year": 1974,
+    "description": "Pioneered the concept of combining and transforming mecha, with three vehicles piloted by different characters that could form three different robot configurations."
+  },
+  {
+    "title": "The King of Braves GaoGaiGar",
+    "genre": "Super Robot, Sci-Fi, Action",
+    "creator": "Sunrise",
+    "release_year": 1997,
+    "description": "A classic '90s series that served as a tribute to the super robot genre, featuring bombastic, heroic action and an elaborate combining robot."
+  },
+  {
+    "title": "Tengen Toppa Gurren Lagann",
+    "genre": "Super Robot, Sci-Fi, Action, Adventure",
+    "creator": "Hiroyuki Imaishi, Kazuki Nakashima",
+    "release_year": 2007,
+    "description": "A popular modern super robot series known for its over-the-top, escalating scale, where mecha and battles grow to impossible, galaxy-sized proportions."
+  },
+  {
+    "title": "SSSS.Gridman",
+    "genre": "Super Robot, Kaiju, Sci-Fi",
+    "creator": "Tsuburaya Productions, Trigger",
+    "release_year": 2018,
+    "description": "A unique entry that blends the super robot genre with the Japanese 'tokusatsu' style of giant monster battles, featuring a robot hero who fights kaiju."
+  },
+  {
+    "title": "Brave Bang Bravern!",
+    "genre": "Super Robot, Comedy, Sci-Fi",
+    "creator": "Masami Obari",
+    "release_year": 2024,
+    "description": "A recent anime that's a love letter to the classic super robot genre, with a self-aware and humorous take on its tropes and traditions."
+  }
+]
